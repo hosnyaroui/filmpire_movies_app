@@ -6,6 +6,8 @@ import Movies from "./components/Movies/Movies";
 import MovieInformation from "./components/MovieInformation/MovieInformation";
 import Profile from "./components/Profile/Profile";
 import NavBar from "./components/NavBar/NavBar";
+import Sidebar from "./components/Sidebar/Sidebar";
+
 
 import useStyles from './components/styles';
 
